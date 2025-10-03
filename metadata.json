@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Hotel Room Styler AI",
+  "description": "An application to help integrate hotel rooms with people or furniture items using AI. Upload a photo of a room, describe the changes, and let the AI generate a new version of the image.",
+  "requestFramePermissions": []
+}
